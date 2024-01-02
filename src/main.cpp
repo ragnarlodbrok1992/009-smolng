@@ -1,5 +1,12 @@
 #include "smolng.hpp"
 
+/*********************************
+ * SmolNG - engine for small games
+ * Author: Maciej Oliwa (ragnarlodbrok1992 on GitHub)
+ * Build by following the tutorial at https://learnopengl.com/
+ * and Game Engine Architecture by Jason Gregory.
+ */
+
 int main(void) {
   // Intro message
   printf("SmolNG\n");
