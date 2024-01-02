@@ -12,3 +12,9 @@ if not exist "build" mkdir build
   /Fo:"build\main.obj"^
   /Fd:"build\main.pdb"
 
+echo Done building!
+
+echo Running...
+
+build\main.exe
+
