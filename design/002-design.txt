@@ -1,0 +1,5 @@
+A. Smol Engine Design
+  This engine is designed to be used as a engine to be used with my first game for itch.io.
+
+B. Smol Game Design
+

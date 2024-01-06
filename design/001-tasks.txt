@@ -1,0 +1,4 @@
+A. State alpha -> before engine being useful to prepare a tech demo.
+B. State beta -> engine is useful to prepare a tech demo.
+  TODO: define what needs to be done to have working tech demo.
+
