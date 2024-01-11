@@ -1,4 +1,11 @@
 A. State alpha -> before engine being useful to prepare a tech demo.
+
+  a) Very early stage - few primitives to render, camera, moving around, simple UI.
+
+    - Render debug CUBE in the middle.
+    - Render debug lines in one plane.
+    - Add camera movements.
+
 B. State beta -> engine is useful to prepare a tech demo.
   TODO: define what needs to be done to have working tech demo.
 
