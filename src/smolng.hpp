@@ -8,5 +8,8 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
+// Includes of shader consts
+#include "shader_consts.hpp"
+
 
 #endif // _H_SMOLNG

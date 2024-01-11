@@ -17,6 +17,7 @@ pushd build
 %compiler_dir% /EHsc /Zi^
   /Fe:"main.exe"^
   ..\src\main.cpp^
+  ..\src\shader_consts.cpp^
   %GLAD_LIB_SRC%^
   /I%GLAD_INCLUDE%^
   /I%GLFW_INCLUDE%^

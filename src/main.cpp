@@ -24,6 +24,12 @@ void ProcessInput(GLFWwindow* window) {
 int main(void) {
   // Intro message
   printf("SmolNG\n");
+  
+  // Test prints of shader consts
+#if 1
+  printf("Vertex shader:\n%s\n", SHADER_VERTEX);
+  printf("Fragment shader:\n%s\n", SHADER_FRAGMENT);
+#endif
 
   // OpenGL initialization
   glfwInit();

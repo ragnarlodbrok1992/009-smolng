@@ -2,3 +2,6 @@ The main philosophy of this software is that we prepare a small engine that work
 best with what game we have in mind. No more, no less. We don't want to make a
 general purpose engine. This task is beyond scope of this project, which is a 
 learning endeavor.
+
+This engine will be used in other projects.
+
